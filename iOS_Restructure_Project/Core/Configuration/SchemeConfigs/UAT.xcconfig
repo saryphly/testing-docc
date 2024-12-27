@@ -1,0 +1,15 @@
+//
+//  SIT.xcconfig
+//  iOS_Restructure_Project
+//
+//  Created by ITD-Phly Sary on 18/12/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// App Name
+app_name = App UAT
+
+// App Bundle Identifier
+app_bundle_identifier = com.example.uat
