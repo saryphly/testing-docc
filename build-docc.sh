@@ -11,7 +11,7 @@ xcrun xcodebuild docbuild \
 xcrun docc process-archive transform-for-static-hosting \
     "$PWD/.derivedData/Build/Products/SIT-iphonesimulator/App SIT.doccarchive" \
     --output-path ".docs" \
-    --hosting-base-path ""
+    --hosting-base-path "testing-docc"
 
 echo '<script>window.location.href += "/documentation/app-sit"</script>' > .docs/index.html
 
