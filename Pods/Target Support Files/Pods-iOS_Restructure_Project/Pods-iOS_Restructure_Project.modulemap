@@ -1,6 +1,0 @@
-framework module Pods_iOS_Restructure_Project {
-  umbrella header "Pods-iOS_Restructure_Project-umbrella.h"
-
-  export *
-  module * { export * }
-}
